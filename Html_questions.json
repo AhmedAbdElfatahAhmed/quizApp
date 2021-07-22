@@ -1,0 +1,78 @@
+[
+    {
+        "title": "Why We Use <br> Element ?",
+        "answer_1": " To Make Text Bold",
+        "answer_2": " To Make Text Italic",
+        "answer_3": " To Add Breakline",
+        "answer_4": " To Create Horizontal Line",
+        "right_answer": " To Add Breakline"
+    },
+    {
+        "title": "Is <img> Element Has Attribute href ?",
+        "answer_1": " Yes",
+        "answer_2": " No Its For Anchor Tag <a>",
+        "answer_3": " All Elements Has This Attribute",
+        "answer_4": " Answer 1 And 3 Is Right",
+        "right_answer": " No Its For Anchor Tag <a>"
+    }
+    ,
+    {
+        "title": "How Can We Make Element Text Bold ?",
+        "answer_1": " Putting It Inside &lt;b> Tag",
+        "answer_2": " Putting It Inside &lt;strong> Tag",
+        "answer_3": " Customizing It With Font-Weight Property In CSS",
+        "answer_4": " All Answers Is Right",
+        "right_answer": " All Answers Is Right"
+    },
+    {
+        "title": "What Is The Right Hierarchy For Creating Part Of Page ?",
+        "answer_1": " &lt;h2> Then &ltp> Then &lth1> Then &ltp> Then &lth3> Then &ltp> Then &ltimg>",
+        "answer_2": " &lth1> Then &ltp> Then &lth3> Then &ltp> Then &lth2> Then &ltp> Then &ltimg>",
+        "answer_3": " &lth2> Then &ltp> Then &lth3> Then &ltp> Then &lth1> Then &ltp> Then &ltimg>",
+        "answer_4": " All Solutions Is Wrong",
+        "right_answer": " All Solutions Is Wrong"
+    },
+    {
+        "title": "How Can We Include External Page Inside Our HTML Page ?",
+        "answer_1": " By Using Include in HTML",
+        "answer_2": " By Using Load In HTML",
+        "answer_3": " By Using iFrame Tag",
+        "answer_4": " All Solutions Is Wrong",
+        "right_answer": " By Using iFrame Tag"
+    },
+    {
+        "title": "What Is The Tag That Not Exists in HTML ?",
+        "answer_1": " &lt;object>",
+        "answer_2": " &lt;basefont>",
+        "answer_3": " &lt;abbr>",
+        "answer_4": " All Tags Is Exists in HTML",
+        "right_answer": " All Tags Is Exists in HTML"
+    },
+
+    {
+        "title": "How We Specify Document Type Of HTML5 Page ?",
+        "answer_1": " &lt;DOCTYPE html>",
+        "answer_2": " &lt;DOCTYPE html5>",
+        "answer_3": " &lt;!DOCTYPE html5>",
+        "answer_4": " &lt;!DOCTYPE html>",
+        "right_answer": " &lt;!DOCTYPE html>"
+    },
+    {
+        "title": "What Is The Element Thats Not Exists in HTML5 Semantics ?",
+        "answer_1": " &lt;article>",
+        "answer_2": " &lt;section>",
+        "answer_3": " &lt;blockquote>",
+        "answer_4": " &lt;aside>",
+        "right_answer": " &lt;blockquote>"
+    },
+
+    {
+        "title": "In HTML Can We Use This Way To Add Attributes",
+        "answer_1": " &lt;div class='class-name'>",
+        "answer_2": " &lt;div class=class-name>",
+        "answer_3": " &lt;div class=\"class-name\">",
+        "answer_4": "All Is Right",
+        "right_answer": "All Is Right"
+    }
+    
+]
